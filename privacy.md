@@ -50,13 +50,15 @@ device in real time, is never stored and never leaves your device.
 Reminders, the morning summary and the reminder before a free trial ends are created on
 your device. Widgets and Apple Watch complications read your habits on your device.
 
-While a routine runs, the App can show a Live Activity on the Lock Screen and in the
-Dynamic Island. So that it keeps moving while the App is asleep, the App sends our small
-relay server the Live Activity's push token from Apple and its schedule: when each step
-starts and ends, random identifiers of the habits in it and how many are done. No habit
-name, text you entered, name, email, account or device identifier is sent. At each moment
-of the schedule the server asks Apple's push service to update the Live Activity, and it
-deletes everything as soon as the Live Activity ends. The server runs on Cloudflare
+The App can show a Live Activity for your morning routine on the Lock Screen and in the
+Dynamic Island. So that it can start at the routine's time and keep moving while the App is
+asleep, the App sends our small relay server the push tokens Apple gives it for Live
+Activities (one to start the routine's Live Activity, one for the running Live Activity)
+and the schedule: the times, random identifiers of the habits in it and their numbers (how
+many are done, a count and its target). No habit name, text you entered, name, email,
+account or device identifier is sent. At each moment of the schedule the server asks
+Apple's push service to start or update the Live Activity, and it deletes what it holds as
+soon as the scheduled push is sent or the Live Activity ends. The server runs on Cloudflare
 Workers; like any internet service, Cloudflare sees the IP address of the request while
 delivering it, and we do not store it. If you turn Live Activities off for the App in iOS
 Settings, nothing is sent.
@@ -109,8 +111,8 @@ anyone, including children under 13 (or the equivalent age in your country).
 Data stays as long as you keep it. You can delete a habit and its marks in the App at any
 time, or everything by deleting the App and, for synced data, in iOS Settings > [your name]
 > iCloud > Manage Account Storage > Habits. Because we hold no copy, there is nothing
-further for us to delete. The relay server keeps a Live Activity's schedule only until that
-Live Activity ends. Usage signals are anonymous and cannot be matched to you, so there is
+further for us to delete. The relay server keeps a Live Activity's tokens and schedule only until
+the scheduled push is sent or that Live Activity ends. Usage signals are anonymous and cannot be matched to you, so there is
 no personal record of them to look up or delete.
 
 ## 12. Your rights
