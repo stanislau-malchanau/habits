@@ -111,9 +111,9 @@ anyone, including children under 13 (or the equivalent age in your country).
 Data stays as long as you keep it. You can delete a habit and its marks in the App at any
 time, or everything by deleting the App and, for synced data, in iOS Settings > [your name]
 > iCloud > Manage Account Storage > Habits. Because we hold no copy, there is nothing
-further for us to delete. The relay server keeps a Live Activity's tokens and schedule only until
-the scheduled push is sent or that Live Activity ends. Usage signals are anonymous and cannot be matched to you, so there is
-no personal record of them to look up or delete.
+further for us to delete. The relay server keeps a Live Activity's tokens and schedule only
+until the scheduled push is sent or that Live Activity ends. Usage signals are anonymous and
+cannot be matched to you, so there is no personal record of them to look up or delete.
 
 ## 12. Your rights
 
