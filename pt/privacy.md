@@ -7,7 +7,7 @@ lang: pt
 
 *Esta é uma tradução. Se ela divergir da [versão em inglês](../privacy), prevalecerá a versão em inglês.*
 
-Data de vigência: 2026-10-23
+Data de vigência: 2026-10-24
 
 Esta política explica como o Habit Tracker: Game & Friends (exibido como "Hábitos" na sua Tela de Início, o "Aplicativo"), desenvolvido por Stanislau Malchanau ("nós"), trata suas informações. Em resumo: **não coletamos, não vendemos nem compartilhamos seus dados pessoais. Seus hábitos permanecem no seu dispositivo e na sua própria conta do iCloud.**
 
@@ -41,11 +41,11 @@ Se você tiver iniciado sessão no Game Center, suas conquistas são informadas 
 
 ## 7. Compras
 
-As assinaturas são vendidas e processadas pela Apple por meio da App Store. Não recebemos seus dados de pagamento. A Apple informa ao Aplicativo apenas se sua assinatura está ativa.
+As assinaturas são vendidas e processadas pela Apple por meio da App Store. Não recebemos seus dados de pagamento. A Apple informa ao Aplicativo se sua assinatura está ativa e qual plano você escolheu, com o preço; a seção 8 explica o que disso vai para nossas análises de uso.
 
 ## 8. Análises de uso e relatórios de falhas
 
-Para saber quais recursos ajudam e onde o Aplicativo atrapalha, o Aplicativo envia sinais de uso anônimos ao TelemetryDeck, um serviço de análise da TelemetryDeck GmbH (Augsburgo, Alemanha) com servidores na UE. Um sinal indica uma ação no Aplicativo: por exemplo, que uma etapa da primeira abertura foi concluída, que a tela de assinatura foi exibida ou que uma assinatura foi iniciada, que o Aplicativo pediu uma avaliação ou que a sincronização com o iCloud falhou. Ele vem acompanhado de um carimbo de data e hora arredondado para a hora cheia e de dados técnicos gerais: as versões do Aplicativo e do iOS, o modelo do dispositivo, o idioma, a região e o fuso horário, além de ajustes de tela e de acessibilidade, como o modo escuro ou o tamanho do texto.
+Para saber quais recursos ajudam e onde o Aplicativo atrapalha, o Aplicativo envia sinais de uso anônimos ao TelemetryDeck, um serviço de análise da TelemetryDeck GmbH (Augsburgo, Alemanha) com servidores na UE. Um sinal indica uma ação no Aplicativo: por exemplo, que uma etapa da primeira abertura foi concluída, que a tela de assinatura foi exibida ou que uma assinatura foi iniciada, que o Aplicativo pediu uma avaliação ou que a sincronização com o iCloud falhou. Ele vem acompanhado de um carimbo de data e hora arredondado para a hora cheia e de dados técnicos gerais: as versões do Aplicativo e do iOS, o modelo do dispositivo, o idioma, a região e o fuso horário, além de ajustes de tela e de acessibilidade, como o modo escuro ou o tamanho do texto. Quando uma assinatura ou sua avaliação gratuita começa, o sinal também traz o plano, o preço convertido em dólares americanos, a moeda e o país da sua App Store, para que possamos ver quais planos são escolhidos.
 
 Um sinal nunca contém os nomes dos seus hábitos ou qualquer outro texto que você digite, nem seu nome, endereço de e-mail, Conta Apple, amigos ou localização. Sua instalação é identificada apenas por um identificador aleatório ao qual o Aplicativo aplica um hash com salt antes do envio, de modo que os sinais não podem ser associados a você nem acompanhados entre aplicativos. O TelemetryDeck não armazena endereços IP e não usa cookies. Analisamos esses sinais apenas como estatísticas para melhorar o Aplicativo; não os vendemos, não os compartilhamos com anunciantes e não os usamos para rastrear você. O Aplicativo não contém código de publicidade ou rastreamento e não rastreia você em outros aplicativos ou sites.
 

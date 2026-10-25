@@ -7,7 +7,7 @@ lang: fr
 
 *Ceci est une traduction. En cas de divergence avec la [version anglaise](../privacy), la version anglaise prévaut.*
 
-Date d'entrée en vigueur : 2026-10-23
+Date d'entrée en vigueur : 2026-10-24
 
 La présente politique explique comment Habit Tracker: Game & Friends (affichée « Habitudes » sur votre écran d'accueil, l'« App »), créée par Stanislau Malchanau (« nous »), traite vos informations. En bref : **nous ne collectons, ne vendons ni ne partageons vos données personnelles. Vos habitudes restent sur votre appareil et dans votre propre compte iCloud.**
 
@@ -41,11 +41,11 @@ Si vous êtes connecté à Game Center, vos succès sont transmis à Game Center
 
 ## 7. Achats
 
-Les abonnements sont vendus et traités par Apple via l'App Store. Nous ne recevons pas vos informations de paiement. Apple indique uniquement à l'App si votre abonnement est actif.
+Les abonnements sont vendus et traités par Apple via l'App Store. Nous ne recevons pas vos informations de paiement. Apple indique à l'App si votre abonnement est actif et quelle formule vous avez choisie, avec son prix ; la section 8 précise ce qui en est transmis à notre analyse d'utilisation.
 
 ## 8. Analyse d'utilisation et rapports de plantage
 
-Pour savoir quelles fonctionnalités sont utiles et où l'App vous gêne, l'App envoie des signaux d'utilisation anonymes à TelemetryDeck, un service d'analyse de TelemetryDeck GmbH (Augsbourg, Allemagne) dont les serveurs sont situés dans l'UE. Un signal désigne une action dans l'App : par exemple, qu'une étape du premier lancement a été terminée, que l'écran d'abonnement a été affiché ou qu'un abonnement a commencé, que l'App a demandé une évaluation, ou que la synchronisation iCloud a échoué. Il est accompagné d'un horodatage arrondi à l'heure et d'informations techniques générales : les versions de l'App et d'iOS, le modèle de l'appareil, la langue, la région et le fuseau horaire, ainsi que les réglages d'affichage et d'accessibilité, comme le mode sombre ou la taille du texte.
+Pour savoir quelles fonctionnalités sont utiles et où l'App vous gêne, l'App envoie des signaux d'utilisation anonymes à TelemetryDeck, un service d'analyse de TelemetryDeck GmbH (Augsbourg, Allemagne) dont les serveurs sont situés dans l'UE. Un signal désigne une action dans l'App : par exemple, qu'une étape du premier lancement a été terminée, que l'écran d'abonnement a été affiché ou qu'un abonnement a commencé, que l'App a demandé une évaluation, ou que la synchronisation iCloud a échoué. Il est accompagné d'un horodatage arrondi à l'heure et d'informations techniques générales : les versions de l'App et d'iOS, le modèle de l'appareil, la langue, la région et le fuseau horaire, ainsi que les réglages d'affichage et d'accessibilité, comme le mode sombre ou la taille du texte. Lorsqu'un abonnement ou son essai gratuit commence, le signal indique aussi la formule, son prix converti en dollars américains, la devise et le pays de votre App Store, afin que nous puissions voir quelles formules sont choisies.
 
 Un signal ne contient jamais le nom de vos habitudes ni tout autre texte que vous saisissez, ni votre nom, votre adresse e-mail, votre Compte Apple, vos amis ou votre position. Votre installation n'est identifiée que par un identifiant aléatoire que l'App sale puis hache avant l'envoi, de sorte que les signaux ne permettent pas de remonter jusqu'à vous et ne peuvent pas être suivis d'une app à l'autre. TelemetryDeck ne stocke aucune adresse IP et n'utilise aucun cookie. Nous n'examinons ces signaux que sous forme de statistiques, pour améliorer l'App ; nous ne les vendons pas, ne les partageons pas avec des annonceurs et ne les utilisons pas pour vous suivre. L'App ne contient aucun code de publicité ou de suivi, et elle ne vous suit pas à travers d'autres apps ou sites web.
 
