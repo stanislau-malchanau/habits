@@ -4,7 +4,7 @@ title: Habit Tracker Privacy Policy
 
 # Habit Tracker: Game & Friends Privacy Policy
 
-Effective date: 2026-10-23
+Effective date: 2026-10-24
 
 This policy explains how Habit Tracker: Game & Friends (shown as "Habits" on your Home
 Screen, the "App"), made by Stanislau Malchanau ("we", "us"), handles your information.
@@ -71,7 +71,8 @@ and handled under Apple's Privacy Policy. We do not receive your Game Center ide
 ## 7. Purchases
 
 Subscriptions are sold and processed by Apple through the App Store. We do not receive
-your payment details. Apple tells the App only whether your subscription is active.
+your payment details. Apple tells the App whether your subscription is active and which
+plan you chose, with its price; section 8 says what of it goes to our usage analytics.
 
 ## 8. Usage analytics and crash reports
 
@@ -82,7 +83,9 @@ step of the first launch was finished, that the subscription screen was shown or
 subscription started, that the App asked for a rating, or that iCloud sync failed. It
 comes with a timestamp rounded to the hour and general technical details: the App and iOS
 versions, the device model, the language, region and time zone, and display and
-accessibility settings such as dark mode or text size.
+accessibility settings such as dark mode or text size. When a subscription or its free
+trial starts, its signal also carries the plan, its price converted to US dollars, the
+currency and the country of your App Store, so that we can see which plans people choose.
 
 A signal never contains the names of your habits or any other text you enter, your name,
 email address, Apple Account, friends or location. Your installation is identified only by
